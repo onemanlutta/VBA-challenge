@@ -12,6 +12,7 @@ This project analyzes multi-stock market data for 2018, 2019 and 2020 using VBA.
 5. A topline summary of the greatest % increases, greatest % decreases and the total stock volumes for that year.
 
 ![stockmarket](https://github.com/onemanlutta/VBA-challenge/assets/118937365/7abdad33-e004-4153-a25e-cb48dc68b6d4)
+
 Source: edX Boot Camps LLC
 
 ## About the Script
